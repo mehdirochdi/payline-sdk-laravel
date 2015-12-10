@@ -20,7 +20,7 @@ class PaylineServiceProvider extends ServiceProvider
 
         //define payline-sdk which are going to be published.
         $this->publishes([
-            __DIR__.'/config/payline.php' => base_path('config/payline.php')
+            __DIR__.'/config/payline.php' => base_path('config/laravel-payline-sdk.php')
         ]);
     }
 

@@ -23,7 +23,7 @@ return [
         'RETURN_URL' => '',
         'CUSTOM_PAYMENT_TEMPLATE_URL' => '',
         'CUSTOM_PAYMENT_PAGE_CODE' => '',
-        'CONTRACT_NUMBER' => 'CB',
+        'CONTRACT_NUMBER' => '1234567',
         'CONTRACT_NUMBER_LIST' => '',
         'SECOND_CONTRACT_NUMBER_LIST' => ''
     ]
