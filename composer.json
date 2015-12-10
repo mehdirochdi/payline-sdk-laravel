@@ -1,0 +1,21 @@
+{
+    "name": "rochdi/payline",
+    "description": "Payment Payline SDKPHP V4 to Laravel 5.1",
+    "homepage": "https://github.com/mehdirochdi/payline-sdk-laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mehdi rochdi",
+            "email": "mehdi.rochdi@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "~5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Rochdi\\Payline\\": "src/"
+        }
+    }
+}

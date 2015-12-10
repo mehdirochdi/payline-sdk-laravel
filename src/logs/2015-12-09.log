@@ -1,0 +1,4 @@
+2015-12-09 16:01:43 - ----------------------------------------------------------
+2015-12-09 16:01:43 - paylineSDK::__construct(203392*******1, f****************99a, , , , , HOMO)
+2015-12-09 16:01:44 - Request : WebPaymentAPI.doWebPayment(order.ref = PHP-1449676903)
+2015-12-09 16:01:44 - Exception : Could not connect to host
